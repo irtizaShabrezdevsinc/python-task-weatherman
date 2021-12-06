@@ -1,8 +1,8 @@
 # python-task-weatherman
 
-###main python file is weatherman.py
+### main python file is weatherman.py
 
-#####note: Before try to run the code please double check the folder path which contain the text file data 
+##### note: Before try to run the code please double check the folder path which contain the text file data 
 
 To run the code you have to pass the argument from the termial e.g 
   1. python3 weatherman.py -e 2006 /lahore_weather
